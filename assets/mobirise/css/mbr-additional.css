@@ -1068,6 +1068,31 @@ a {
   color: #ffffff;
   text-align: center;
 }
+.cid-udiH5t5vDi {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-udiH5t5vDi .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-udiH5t5vDi .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-udiH5t5vDi .video-wrapper iframe {
+  width: 100%;
+}
+.cid-udiH5t5vDi .mbr-section-title,
+.cid-udiH5t5vDi .mbr-section-subtitle,
+.cid-udiH5t5vDi .mbr-text {
+  text-align: center;
+}
 .cid-ucGzE8v5d6 {
   padding-top: 5rem;
   padding-bottom: 1rem;
